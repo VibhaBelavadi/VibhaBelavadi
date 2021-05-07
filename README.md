@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page. I'm Vibha Belavadi, PhD Candidate at UT Dallas, Richardson. I am expected to graduate in Fall 2021.
+Welcome to my page. I'm Vibha Belavadi, a final year PhD Candidate at University of Texas at Dallas, Richardson. I am expected to graduate in Fall 2021.
 
 My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
 
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 <h3>Where to find me</h3>
-<p><a href="https://vibhabelavadi.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white" /></a><a href="https://www.linkedin.com/in/vibhabelavadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/VibhaBelavadi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://twitter.com/Vibha_Belavadi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://vibhabelavadi.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vibhabelavadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/VibhaBelavadi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Vibha_Belavadi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
