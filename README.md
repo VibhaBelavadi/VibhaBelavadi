@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page. I'm Vibha Belavadi, a final year PhD Candidate at University of Texas at Dallas, Richardson. I am expected to graduate in Fall 2021.
+Welcome to my page. I'm Vibha Belavadi, a final year PhD Candidate at University of Texas at Dallas. I am expected to graduate in Fall 2021.
 
 My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Thing I code with</h3>
+<h3>Things I code with</h3>
 <p align="center" style="display:flex; flex-direction:column; margin-top: 1rem;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibhaBelavadi&theme=nightowl&layout=compact&hide=javascript,Shell,Ruby,C++,CSS,%20SCSS,%20HTML&langs_count=8"> 
 </p>
