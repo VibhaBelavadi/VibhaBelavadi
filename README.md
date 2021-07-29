@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page. I'm Vibha Belavadi, a final year PhD Candidate at The University of Texas at Dallas.
+Welcome to my page. I'm Vibha Belavadi, a PhD Candidate at The University of Texas at Dallas.
 
 My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
 
