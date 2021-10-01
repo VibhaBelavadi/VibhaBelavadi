@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </p>
 </span>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VibhaBelavadi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VibhaBelavadi&theme=nord_bright)
