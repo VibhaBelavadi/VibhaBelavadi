@@ -1,9 +1,9 @@
 <span style="font-family:Trebuchet MS">
 <h3> Hi there 👋</h3>
 
-Welcome to my page. I'm Vibha Belavadi, a PhD Candidate at The University of Texas at Dallas.
+Welcome to my page. I'm Vibha Belavadi, a Machine Learning Engineer at Adobe. Previously I was a PhD Candidate at The University of Texas at Dallas and graduated in August 2022.
 
-My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good. I am expected to graduate in May 2022.  
+My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good. 
   
 <!--
 **VibhaBelavadi/VibhaBelavadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
