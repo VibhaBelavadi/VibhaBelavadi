@@ -1,9 +1,11 @@
 <span style="font-family:Trebuchet MS">
 <h3> Hi there 👋</h3>
 
-Welcome to my page. I'm Vibha Belavadi, a Machine Learning Engineer at Adobe. Previously I was a PhD Candidate at The University of Texas at Dallas and graduated in August 2022.
+Welcome to my page. I'm Vibha Belavadi, a Machine Learning Engineer at Adobe.
 
-My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good. 
+My area of interests are Large Language Models, Small Language Models, AI Agents, Generative AI and Adversarial Machine Learning.
+
+<!-- My area of interests are Large Language Models, Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good. -->
   
 <!--
 **VibhaBelavadi/VibhaBelavadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +33,4 @@ Here are some ideas to get you started:
 </p>
 </span>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VibhaBelavadi&theme=nord_bright)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VibhaBelavadi&theme=nord_bright)-->
