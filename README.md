@@ -1,7 +1,7 @@
 <span style="font-family:Trebuchet MS">
 <h3> Hi there 👋</h3>
 
-Welcome to my page. I'm Vibha Belavadi, a Machine Learning Engineer at Adobe.
+Hello! I'm Vibha Belavadi, a Machine Learning Engineer at Adobe.
 
 My area of interests are Large Language Models, Small Language Models, AI Agents, Generative AI and Adversarial Machine Learning.
 
